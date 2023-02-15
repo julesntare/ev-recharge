@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140890550890",
+    "project_id": "ev-recharge-project",
+    "storage_bucket": "ev-recharge-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140890550890:android:c9d5fa83f0fb5accdcd013",
+        "android_client_info": {
+          "package_name": "com.example.evrecharge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140890550890-eghellt1dnq9vdjfi40diqpdqvgp0fkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-5S0G8u-ZzzWPLjRLYpn2mUVWve1SBSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140890550890-eghellt1dnq9vdjfi40diqpdqvgp0fkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

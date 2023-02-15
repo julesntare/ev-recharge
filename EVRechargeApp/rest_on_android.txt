@@ -1,0 +1,5 @@
+--- ToDos on Android App ---
+
+1. versioning
+2. re-initiate ev-recharge icons
+3. re-routing

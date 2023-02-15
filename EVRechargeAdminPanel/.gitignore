@@ -1,0 +1,7 @@
+node_modules
+firebase*
+firestore*
+gulpfile.js
+storage.rules
+.firebaserc
+.browserslistrc
